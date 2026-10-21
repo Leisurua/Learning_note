@@ -1,0 +1,26 @@
+# Obsidian personal settings, workspace state and caches
+.obsidian/
+.trash/
+
+# Syncthing local metadata and file history
+.stfolder/
+.stversions/
+.syncthing.*.tmp
+
+# macOS and Windows metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files and backups
+*.swp
+*.swo
+*.tmp
+*.bak
+~$*
+
+# Local credentials
+.env
+.env.*
+!.env.example
