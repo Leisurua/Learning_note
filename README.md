@@ -11,7 +11,7 @@
 | [CSAPP 学习](CSAPP学习/) | [网络编程](CSAPP学习/网络编程.md) |
 | [图解 OS](图解OS/) | [硬件结构](图解OS/硬件结构.md) |
 | [NJU OS](NJUOS/) | [三种视角的 OS](NJUOS/三种视角的OS.md)、[进程、程序与地址空间](NJUOS/进程、程序与地址空间.md) |
-| [LeetCode](LeetCode/) | 算法练习，待补充 |
+| [LeetCode](LeetCode/) | [BFS 与 DFS](LeetCode/BFS与DFS.md)、[堆](LeetCode/堆.md)、[接雨水专题](LeetCode/接雨水专题.md) |
 
 尚未展开的笔记：[RAII](CPP基础/RAII.md)、[引用与复制](CPP基础/引用与复制.md)、[Hash](LeetCode/hash.md)。
 
@@ -19,7 +19,7 @@
 
 笔记由 Obsidian 管理，包含 `[[双向链接]]` 和 `![[图片嵌入]]` 语法。建议将本仓库文件夹作为 Obsidian 仓库打开，以完整查看笔记间的关联和配图；部分语法在 GitHub 网页中不会直接渲染。
 
-图片保留在各主题原有目录中，与笔记一同版本管理。
+配图与笔记一同版本管理。
 
 ## 仓库维护
 
