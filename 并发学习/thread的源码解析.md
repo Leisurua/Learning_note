@@ -76,7 +76,7 @@ void _Start(_Fn&& _Fx, _Args&&... _Ax) {
 
 ## `auto _Decay_copied = _STD make_unique<_Tuple>(_STD forward<_Fn>(_Fx), _STD forward<_Args>(_Ax)...)`
 
-简单来说 创建`std::make_unique`是为了在heap上保留一份参数 防止原线程结束后参数被销毁 参见[[栈与堆]]
+简单来说 创建`std::make_unique`是为了在heap上保留一份参数 防止原线程结束后参数被销毁 参见[[图解OS/内存管理/malloc#Linxu进程的内存分布|栈与堆]]
 
 但是问题出现了 底层API只能接受`void*`类型的参数
 

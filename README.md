@@ -6,14 +6,14 @@
 
 | 分类 | 内容 |
 | --- | --- |
-| [C++ 基础](CPP基础/) | [栈与堆](CPP基础/栈与堆.md)、[原子操作](CPP基础/原子操作.md) |
-| [并发学习](并发学习/) | [线程](并发学习/线程.md)、[互斥量](并发学习/mutex.md)、[同步操作](并发学习/同步操作.md)、[thread 源码解析](并发学习/thread的源码解析.md) |
+| [C++ 基础](CPP基础/) | 基础概念，待补充 |
+| [并发学习](并发学习/) | [线程](并发学习/线程.md)、[互斥量](并发学习/mutex.md)、[同步操作](并发学习/同步操作.md)、[thread 源码解析](并发学习/thread的源码解析.md)、[原子操作](并发学习/原子操作.md) |
 | [CSAPP 学习](CSAPP学习/) | [网络编程](CSAPP学习/网络编程.md) |
-| [图解 OS](图解OS/) | [硬件结构](图解OS/硬件结构.md) |
+| [图解 OS](图解OS/) | [硬件结构](图解OS/硬件结构.md)、[虚拟内存](图解OS/内存管理/虚拟内存.md)、[malloc](图解OS/内存管理/malloc.md) |
 | [NJU OS](NJUOS/) | [三种视角的 OS](NJUOS/三种视角的OS.md)、[进程、程序与地址空间](NJUOS/进程、程序与地址空间.md) |
 | [LeetCode](LeetCode/) | [BFS 与 DFS](LeetCode/BFS与DFS.md)、[堆](LeetCode/堆.md)、[接雨水专题](LeetCode/接雨水专题.md) |
 
-尚未展开的笔记：[RAII](CPP基础/RAII.md)、[引用与复制](CPP基础/引用与复制.md)、[Hash](LeetCode/hash.md)。
+尚未展开的笔记：[C++ 基础笔记](CPP基础.md)、[RAII](CPP基础/RAII.md)、[引用与复制](CPP基础/引用与复制.md)、[Hash](LeetCode/hash.md)。
 
 ## 阅读方式
 
